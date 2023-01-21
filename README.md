@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iremsato
-- 🌱 I’m currently learning Java
+
 
 
 <!---
